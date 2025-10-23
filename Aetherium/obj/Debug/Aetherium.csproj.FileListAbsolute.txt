@@ -1,0 +1,11 @@
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\bin\Debug\Aetherium.exe.config
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\bin\Debug\Aetherium.exe
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\bin\Debug\Aetherium.pdb
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\bin\Debug\GameUtility.dll
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\bin\Debug\MonoGame.Framework.dll
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\bin\Debug\MonoGame.Framework.xml
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\obj\Debug\Aetherium.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\obj\Debug\Aetherium.exe
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\obj\Debug\Aetherium.pdb
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\obj\Debug\Aetherium.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\ICS3\Assignments\PASS3\Aetherium\Aetherium\obj\Debug\Aetherium.csproj.Up2Date

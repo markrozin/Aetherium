@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Audio/Sounds/slash-21834.wav</SourceFile>
+  <SourceTime>2024-01-22T22:52:21.4944791-05:00</SourceTime>
+  <DestFile>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/bin/Debug/Content/Audio/Sounds/slash-21834.xnb</DestFile>
+  <DestTime>2024-01-22T22:53:34.576424-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

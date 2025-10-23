@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Fonts/HUDFont.spritefont</SourceFile>
+  <SourceTime>2024-01-09T11:57:19.2414044-05:00</SourceTime>
+  <DestFile>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/bin/Debug/Content/Fonts/HUDFont.xnb</DestFile>
+  <DestTime>2024-01-09T11:57:23.8549498-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

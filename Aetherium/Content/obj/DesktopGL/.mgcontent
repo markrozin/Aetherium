@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Audio/Music/01 - Damned.mp3</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Audio/Sounds/slash-21834.wav</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Fonts/File.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Fonts/HUDFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Fonts/RealInstructionsFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Fonts/StoryFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Backgrounds/aetheriumTerrain.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Backgrounds/UnderworldBg.jpeg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Backgrounds/whiteBg.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/axe.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/blankSquare.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/boulder.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/cageImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/Crystal.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/Custom Edited - Infernax Customs - Cultist High Priest Helltaker Colors.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/dagger.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/doublePoints.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/emptyBag.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/exitButton.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/freezeSplash.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/fullBag.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/goldImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/greenTerrain.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/instaKill2.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/instaSkill.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/InstructionsFont.spritefont</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/keyImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/knight.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/luckCards.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/minecraftKnight.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/moneyBag.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/moneyBagWaterM.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/monkeyBomb.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/platformRec.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/playingCard.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/pls work.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/pocketknife.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/portal.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/portal2.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion2.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion3.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion4.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion5.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion6.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/potion7.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/PowerMeter.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/raymanWalkingCommon.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/raymanWalkingDragon.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/RaymanWEDIDIT.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/RectangleBorder.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/rectangleBorder2Amazing.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/restartButton.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/spear.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/spikeImg.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/sword.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/void1.jpg</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/void2.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/void3.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/WalkingAnim.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/WalkingAnimFinal.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/zombie1walking.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/zombie1walking-removebg-preview.png</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/zombieFlat.webp</File>
+    <File>C:/Users/Mark/Desktop/ICS3/Assignments/PASS3/Aetherium/Aetherium/Content/Images/Sprites/zombieFlat3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
